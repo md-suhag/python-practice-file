@@ -1,0 +1,5 @@
+number1 = input("Enter first number: ")
+number2 = input("Enter second number: ")
+remainder = int(number1)% int(number2)
+print("The result is= ",remainder)
+input("Press enter to exit: ")

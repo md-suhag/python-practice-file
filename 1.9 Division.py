@@ -1,0 +1,5 @@
+number1 = input("Enter first number: ")
+number2 = input("Enter second number: ")
+division = float(number1)/ float(number2)
+print("The result is= ",division)
+input("Press enter to exit: ")
